@@ -8,7 +8,7 @@ In the era of digital animation, the quest to produce lifelike facial animations
 
 ## :mailbox_with_mail: Contact
 
-- **Soyeon Yoon**: [leeinyup123@kaist.ac.kr](mailto:leeinyup123@kaist.ac.kr)
+- **Inyup Lee**: [leeinyup123@kaist.ac.kr](mailto:leeinyup123@kaist.ac.kr)
 
 ## :mega: Citation
 ```bibtex
