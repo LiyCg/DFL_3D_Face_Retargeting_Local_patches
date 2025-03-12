@@ -7,9 +7,6 @@
 Overview of the proposed method at inference time (a) and the illustration of automatic patch extraction (b) using local patch extraction around the lips as an example.
 ![Teaser Image](readme_images/method.png)
 
-### training
-The training process of the autoencoder for a local patch in RM. (The local patch is extracted from lips as an example.) An image reconstruction loss mathematical equation is applied to train decoders D_s^lips and D_t^lips to reconstruct the source patch mathematical equation and the target patch mathematical equation, respectively.![Teaser Image](readme_images/method.png)
-
 ## :mailbox_with_mail: Contact
 
 - **Inyup Lee**: [leeinyup123@kaist.ac.kr](mailto:leeinyup123@kaist.ac.kr)
