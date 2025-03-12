@@ -1,0 +1,7 @@
+pip install kornia && echo "finished 1"
+pip install typing-extensions && pip install --upgrade typing-extensions && echo "finished 2"
+pip install pytorch_msssim && echo "finished 3"
+apt-get update -y && apt-get install -y ffmpeg && echo "finished 4"
+pip install torchsummary && echo "finished 5"
+pip install mediapy && echo "Finished 6"
+echo "Ready to Start!"
