@@ -1,7 +1,5 @@
 # Deep-Learning-Based Facial Retargeting Using Local Patches
-### [Eurographics 2025] 
-
-### [[Project Page](https://liycg.github.io/DLF_page/)] [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.15263)]
+### [Eurographics 2025] [[Project Page](https://liycg.github.io/DLF_page/)] [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.15263)]
 ![Teaser Image](readme_images/teaser.png)
 ## Overview
 ### inference
