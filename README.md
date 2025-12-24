@@ -2,7 +2,6 @@
 ### [Eurographics 2025] [[Project Page](https://liycg.github.io/DLF_page/)] [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.15263)]
 ![Teaser Image](readme_images/teaser.png)
 ## Overview
-### inference
 Overview of the proposed method at inference time (a) and the illustration of automatic patch extraction (b) using local patch extraction around the lips as an example.
 ![Teaser Image](readme_images/method.png)
 
