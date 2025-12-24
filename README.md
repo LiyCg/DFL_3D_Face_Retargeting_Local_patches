@@ -9,13 +9,9 @@ Overview of the proposed method at inference time (a) and the illustration of au
 
 ## :gear: Install Environment via Anaconda (Recommended)
     conda env create -f environment.yml
-    conda activate ffacenerf
+    conda activate dfl
 
 DFL requires ReenactNet and BPNet checkpoints for execution
-
-put [pretrained_model](https://drive.google.com/file/d/1N4y3leKEF7rbMVNbpYUYtNnaO4WVDln1/view?usp=drive_link) into networks/NeRFFaceEditing-ffhq-64.pkl
-
-Download [Data](https://drive.google.com/file/d/16ha-UeU2uLZu7YNYPXw-I1yIHyav2E0O/view?usp=drive_link) for training and testing
 
 ## Testing
 
